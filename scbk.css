@@ -1,0 +1,35 @@
+/*
+Name: COMPANYLight
+Base theme: La Jolla
+Application: Global
+Active: true
+Device: Concourse
+*/
+
+/*Banner Frame*/
+$navpage-header-bg: #FFFFFF
+$navpage-header-color: #272428
+$navpage-header-button-color: #272428
+$navpage-header-divider-color: #777777
+
+/*Application Navigator*/
+$navpage-button-color: #272428
+$navpage-button-color-hover: #38d200
+$search-text-color: #3c3c3c
+$navpage-nav-border: #747470
+$nav-highlight-main: #38d200
+$subnav-background-color: #d1d1d1
+$navpage-nav-bg: #fff
+$navpage-nav-bg-sub: #fafafa
+$navpage-nav-color-sub: #272428
+$navpage-nav-mod-text-hover: #fff
+$nav-hr-color: #454545
+$nav-highlight-bar-active: #38d200
+$nav-highlight-bar-inactive: #EAEAEA
+$navpage-nav-selected-bg: #38d200
+$navpage-nav-selected-color: #fff
+$navpage-nav-unselected-color: #777
+$connect-latest-message: #747470
+$nav-timeago-header-color: #ddd
+$navpage-nav-app-text: #272428
+$navpage-nav-app-text-hover: #fff
